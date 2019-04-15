@@ -14,7 +14,7 @@ class Backer
   end
   
   #def backers 
-   #  @backers << self 
+  #backers << self 
   #end 
  
 end 
